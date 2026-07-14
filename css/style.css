@@ -3,3 +3,19 @@ h1 {
     color: white;
     text-align: center;
 }
+
+P{
+    background-color: yellow;
+}
+
+body {
+    background-color: lightgray;
+}
+.bg-green-h1 {
+    background-color: green;
+    color: white;
+}
+.bg-blue-h1 {
+    background-color: blue;
+    color: white;
+}
