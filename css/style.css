@@ -18,4 +18,17 @@ body {
 .bg-blue-h1 {
     background-color: blue;
     color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    text-align: center;
+    letter-spacing: 0cap;
+    text-decoration: underline double;
 }
+#pg-background{
+    background-color: lightblue;
+}
+/* *{
+    background-color: bisque;
+    margin: 0%;
+    padding: 0%;
+} */
