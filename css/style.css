@@ -14,6 +14,13 @@ body {
 .bg-green-h1 {
     background-color: green;
     color: white;
+    text-align: center;
+    padding: 40px;
+    border: 5px solid black;
+    border-radius: 50px;
+    border-style: groove;
+    margin: 50px;
+
 }
 .bg-blue-h1 {
     background-color: blue;
@@ -27,8 +34,8 @@ body {
 #pg-background{
     background-color: lightblue;
 }
-/* *{
+*{
     background-color: bisque;
     margin: 0%;
     padding: 0%;
-} */
+} 
