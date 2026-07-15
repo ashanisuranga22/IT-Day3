@@ -54,10 +54,12 @@ body{
 #box01{
     width: 50px;
     height: 50px;
-    background-color: aquamarine;
-    position: relative;
+    background-color: green;
+    position: fixed;
     bottom: 20px;
-    left:70px;
+    right:20px;
+    border-radius: 50%;
+    
 }
 #box02{
     width: 100px;
